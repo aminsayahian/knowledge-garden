@@ -1,5 +1,5 @@
 type:: [[Website]]
-features:: [[Work Documents]]
+features:: [[Work Websites]]
 
 * [Static Website Docusaurus](https://github.com/eLearningHub/Static-Website-Docusaurus) ([demo](https://elearninghub.github.io/Static-Website-Docusaurus/))
 * [Static Website Docusaurus RTL](https://github.com/eLearningHub/Static-Website-Docusaurus-RTL) ([demo](https://elearninghub.github.io/Static-Website-Docusaurus-RTL/))
