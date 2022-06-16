@@ -21,6 +21,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      - name: Make the www folder
+        run: mkdir -p $GITHUB_WORKSPACE/www
       - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@main
         with:
