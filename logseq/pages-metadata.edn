@@ -4,9 +4,6 @@
  {:block/name "about me",
   :block/created-at 1646985730446,
   :block/updated-at 1646985730446}
- {:block/name "academic documents",
-  :block/created-at 1655402356233,
-  :block/updated-at 1655402356233}
  {:block/name "b",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -46,9 +43,6 @@
  {:block/name "now",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
- {:block/name "personal websites",
-  :block/created-at 1655402358190,
-  :block/updated-at 1655402358190}
  {:block/name "readme",
   :block/created-at 1648720274542,
   :block/updated-at 1648720274542}
@@ -77,8 +71,5 @@
   :block/created-at 1641967503322,
   :block/updated-at 1652720778470}
  {:block/name "website",
-  :block/created-at 1655395923804,
-  :block/updated-at 1655395923804}
- {:block/name "work websites",
-  :block/created-at 1655402358275, 
-  :block/updated-at 1655402358275}]
+  :block/created-at 1655395923804, 
+  :block/updated-at 1655395923804}]
