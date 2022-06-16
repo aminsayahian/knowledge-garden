@@ -128,4 +128,5 @@
  :ui/show-brackets? true
  :journal/page-title-format "E, yyyy/MM/dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["About Me"]}
+ :favorites ["About Me"]
+ :graph/settings {:builtin-pages? true}}
